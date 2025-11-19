@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Javascript projects**
 
-- 🌱 I’m currently learning **REST API, databases**
+- 🌱 I’m currently learning **REST API, Flutter**
 
 <p align="left">
 </p>
