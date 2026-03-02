@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orisho7" alt="orisho7" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript projects**
+- 🔭 I’m currently working on **Back-end and Flutter projects**
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning ** Flutter - Golang**
 
 - 👯 I’m looking to collaborate on **Anyone!**
 
