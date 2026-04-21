@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Back-end and Flutter projects**
 
-- 🌱 I’m currently learning ** Flutter - Golang**
+- 🌱 I’m currently learning **Flutter - Golang**
 
 - 👯 I’m looking to collaborate on **Anyone!**
 
