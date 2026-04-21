@@ -12,6 +12,8 @@
 - 👯 I’m looking to collaborate on **Anyone!**
 
 <h3 align="left">Connect with me:</h3>
+<h4 align="left">mailto:abdullrazaq.nq13@gmail.com</h4>
+
 <p align="left">
 </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orisho7&show_icons=true&theme=dark&locale=en&layout=compact" alt="orisho7" /></p>
