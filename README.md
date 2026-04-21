@@ -12,7 +12,8 @@
 - 👯 I’m looking to collaborate on **Anyone!**
 
 <h3 align="left">Connect with me:</h3>
-<h4 align="left">"mailto:abdullrazaq.nq13@gmail.com"</h4>
+
+<h4 align="left"><a href="mailto:abdullrazaq.nq13@gmail.com">Send Email</a></h4>
 
 <p align="left">
 </p>
