@@ -1,25 +1,53 @@
-<h1 align="center">Hi 👋, I'm Abdullrazaq Naqsho</h1>
-<h3 align="center">Back-end developer from Syria</h3>
+<h1 align="center">Hi, I'm Abdullrazaq Naqsho</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=orisho7&label=Profile%20views&color=0e75b6&style=flat" alt="orisho7" /> </p>
+<h3 align="center">
+  Software Engineer | Backend & Distributed Systems
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=orisho7" alt="orisho7" /></a> </p>
-
-- 🔭 I’m currently working on **Back-end and Flutter projects**
-
-- 🌱 I’m currently learning **Flutter - Golang**
-
-- 👯 I’m looking to collaborate on **Anyone!**
-
-<h3 align="left">Connect with me:</h3>
-
-<h4 align="left"><a href="mailto:abdullrazaq.nq13@gmail.com">Send Email</a></h4>
-
-<p align="left">
+<p align="center">
+  <a href="https://github.com/orisho7">
+    <img src="https://komarev.com/ghpvc/?username=orisho7&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=orisho7&show_icons=true&theme=dark&locale=en&layout=compact" alt="orisho7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orisho7&show_icons=true&theme=dark&locale=en" alt="orisho7" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orisho7&theme=dark" alt="orisho7" /></p>
+## About Me
 
+I'm a Software Engineering student and backend-focused developer interested in building systems that are **fast, reliable, scalable, and maintainable**.
+
+My main focus is backend engineering, distributed systems, performance optimization, and service architecture. I work primarily with **Go and TypeScript**, while also building applications with Dart and Flutter.
+
+I particularly enjoy taking an existing system and improving its architecture, performance, and reliability rather than simply adding features.
+
+- Backend development with **Go, Node.js, and NestJS**
+- Distributed systems and **event-driven architecture**
+- **gRPC, REST APIs, Redis, MongoDB, PostgreSQL**
+- Performance optimization, caching, and concurrency
+- Load and resilience testing with **Vegeta and Toxiproxy**
+- AI-integrated backend services
+- Flutter application development
+
+## What I'm Building
+
+Currently working on backend systems, developer tools, and distributed services.
+
+Some of my projects include:
+
+- **[Rush](https://rush-page.vercel.app/)** — High-performance Go dependency orchestrator focused on caching and dependency reuse.
+- **[Robin](https://github.com/orisho7/Robin_CLI)** — Real-time Linux observability agent and CLI dashboard.
+- **[Radian](https://zaiti-oil-recommendation.onrender.com/)** — Engine-oil recommendation engine built with Go and exposed through gRPC/HTTP.
+- **[VoiceMemo](https://github.com/orisho7/Mic)** — C# audio recording and real-time speech-to-text application.
+
+## Engineering Focus
+
+```text
+Backend Architecture
+        ↓
+Distributed Services
+        ↓
+Performance Engineering
+        ↓
+Reliability & Resilience
+        ↓
+Efficient System Design
